@@ -5,7 +5,8 @@ I'm a enthusiastic data analyst, currently looking for a job or an interesting d
 
 ### Connect with me:
 
-[<img align="left" alt="kari_galst | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+Telegram: https://t.me/kari_galst
+E-mail: kari.galst@yandex.ru
 
 <br />
 
