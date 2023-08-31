@@ -4,9 +4,8 @@
 I'm a enthusiastic data analyst, currently looking for a job or an interesting data analysis project.
 
 ### Connect with me:
-
-Telegram: https://t.me/kari_galst
-E-mail: kari.galst@yandex.ru
+ - Telegram: https://t.me/kari_galst
+ - E-mail: kari.galst@yandex.ru
 
 <br />
 
